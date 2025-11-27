@@ -1,4 +1,4 @@
-# Real-Estate-Property-Value-Prediction-Model
+# Real-Estate Property Price Predictor-Model
 
 
 A machine learning-powered web application that estimates real estate property values based on key property features and location data. Built with React and Recharts for interactive data visualization.
